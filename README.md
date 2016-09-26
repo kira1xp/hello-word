@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi Peoples!
+
+kira1xp here, I Like Python and others
